@@ -2,5 +2,5 @@
 model of web project
 
 
-#How to Run ?
+# How to Run ?
 python3 manage.py runserver
